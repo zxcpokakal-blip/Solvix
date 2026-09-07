@@ -11,3 +11,5 @@
 • ✨ Простой и удобный интерфейс
 
 SOLVIX — исправь проблемы. Играй без ограничений.
+
+VirusTotal - https://www.virustotal.com/gui/file/e1e5113b6d8ae1275aa088eea80ba7feddb984d5b580d4b18a02bbb48c411cae
